@@ -1,0 +1,191 @@
+[     414ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[  173137ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  173235ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  173989ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  174014ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  175311ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  175333ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  281696ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  281779ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  301564ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  301740ms] [LOG] [Fast Refresh] done in 232ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  332154ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  332162ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  357340ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  357566ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  358550ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  358716ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  358742ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  358844ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  359623ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  359690ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/api/chat:0
+[  434204ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  434303ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  774021ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  774119ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  774256ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  774380ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  774910ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  775231ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  784706ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  784781ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  784913ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  785261ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  785294ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  785394ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983

@@ -1,0 +1,29 @@
+[     169ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11886
+[     196ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[     282ms] [ERROR] ./src/lib/prompts/generation.tsx:21:60
+Parsing ecmascript source code failed
+  19 |
+  20 | **Banned class patterns (never use these combinations):**
+> 21 | - `bg-white` cards sitting on `bg-gray-100` or `bg-gray-50` page backgrounds
+     |                                                            ^^^^^^^^^^^^^^^^^
+> 22 | - `bg-blue-500` or `bg-blue-600` as the primary button or accent color
+     | ^^^
+  23 | - `rounded-lg shadow-md` or `rounded-lg shadow-sm` as the only card treatment
+  24 | - `text-gray-600` body text on a plain white background as the primary design
+  25 | - `hover:bg-gray-50` as the only interactive state
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[     321ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[     387ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
